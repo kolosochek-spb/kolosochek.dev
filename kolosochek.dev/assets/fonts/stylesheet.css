@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Terminator Real NFI RUS';
+    src: url('TerminatorRealNFIRUS.woff2') format('woff2'),
+        url('TerminatorRealNFIRUS.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
